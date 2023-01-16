@@ -1,0 +1,8 @@
+INICIO: 27/12/2022 15:30:10
+Compruebo si hay pendiente integraciones de amazon pasadas 24 horas.
+Se han encontrado 3 pendientes, elimino la primera tienda 98
+Tienda 98 eliminada correctamente
+Actualizo la fecha de registro de la tienda 107 para dar 24 horas al cliente para su autorizacion
+Actualizo la fecha de registro de la tienda 116 para dar 24 horas al cliente para su autorizacion
+FIN: 27/12/2022 15:30:53
+

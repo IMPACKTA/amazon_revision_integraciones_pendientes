@@ -1,0 +1,13 @@
+INICIO: 30/12/2022 11:15:46
+Compruebo si hay pendiente integraciones de amazon pasadas 24 horas.
+Se han encontrado 1 pendientes, elimino la primera tienda 116
+Tienda 116 eliminada correctamente
+Buscamos si hay tiendas por autorizar
+No hay tiendas por autorizar
+FIN: 30/12/2022 11:15:59
+
+INICIO: 30/12/2022 11:16:06
+Compruebo si hay pendiente integraciones de amazon pasadas 24 horas.
+No hay integraciones pendientes
+FIN: 30/12/2022 11:16:14
+
